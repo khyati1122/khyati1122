@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Khyati! 👩‍💻
+# सुस्वागतम्! I'm Khyati 👩‍💻
 
 <div align="center">
   <img src="animation.gif" alt="Coding animation" width="200"/>
