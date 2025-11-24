@@ -25,9 +25,8 @@ Here are some ideas to get you started:
 ```python
 class Khyati:
     def __init__(self):
-        self.location = "Boston, MA 📍"
         self.education = "MS in CS @ Northeastern University"
-        self.interests = ["AI", "ML", "NLP", "Data Science"]
+        self.interests = ["AI", "ML", "NLP", "Data Science", "Anything Creative and Exciting!"]
         self.fun_fact = "I've analyzed 25 years of satellite precipitation data! 🛰️"
 ```
 
@@ -57,5 +56,5 @@ class Khyati:
 ---
 
 <div align="center">
-  <sub>MS CS Student @ Northeastern • AI/ML Security Researcher • Building Intelligent Systems</sub>
+  <sub>Love Yourself 💜</sub>
 </div>
