@@ -36,8 +36,7 @@ class Khyati:
     def __init__(self):
         self.location = "Boston, MA 📍"
         self.education = "MS in CS @ Northeastern University"
-        self.interests = ["AI/ML Security", "NLP", "Crime Intelligence", "Data Analysis"]
-        self.current_focus = "Building security pipelines with BERT models"
+        self.interests = ["AI", "ML", "NLP", "Data Science"]
         self.fun_fact = "I've analyzed 25 years of satellite precipitation data! 🛰️"
 ```
 
@@ -58,13 +57,6 @@ class Khyati:
 
 </div>
 
-## 🌟 What I'm Working On
-
-- 🔐 **Security Research** - Built BERT-based attack detection achieving 97.2% F1-score
-- 🤖 **Sentimind** - Real-time chat sentiment analysis using Reddit insights & LLMs
-- 📊 **Crime Intelligence** - Fraud detection system for Gujarat Police Crime Branch
-- 🛰️ **Satellite Data Analysis** - Processing 50+ million data points for climate patterns
-- 👤 **Facial Recognition** - YOLOv8 liveness detection with 98.5% accuracy
 
 ## 💫 Fun Facts & Interests
 
@@ -86,7 +78,6 @@ class Khyati:
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-Khyati_Amin-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/khyatiiamin)
-  [![Gmail](https://img.shields.io/badge/-khyati.n.amin@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:khyati.n.amin@gmail.com)
   [![GitHub](https://img.shields.io/badge/-khyati1122-181717?style=flat&logo=github&logoColor=white)](https://github.com/khyati1122)
   
 </div>
@@ -101,6 +92,5 @@ class Khyati:
   <!-- Profile views counter -->
   ![](https://komarev.com/ghpvc/?username=khyati1122&color=9370DB&style=flat&label=Profile+Views)
   
-  <sub>Currently brewing ideas with coffee ☕ and code 💻</sub>
   
 </div>
